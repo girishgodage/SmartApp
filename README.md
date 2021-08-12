@@ -1,4 +1,4 @@
-# *Smart*App** - ASPNET Core 5 / Angular 11 project template
+# **SmartApp** - ASPNET Core 5 / Angular 11 project template
 
 
 A startup **Angular 11 / ASP.NET Core 5** (cross-platform ) **project template** with an end-to-end login, user and role management implementation.
@@ -39,7 +39,7 @@ As well as other common functionalities for **Smart Application Development**.
 ## Installation
 
 *   [OPTION 1] Clone the [Git Repository](https://github.com/girishgodage/SmartApp.git) and edit with your favorite editor. e.g. Visual Studio, Visual Studio Code
-*   [OPTION 2] Install Project template from the [Visual Studio Gallery]() and follow the usual File -> New Project -> Web -> QuickApp - to create a new Project from this template.
+*   [OPTION 2] Install Project template from the [Visual Studio Gallery]() and follow the usual File -> New Project -> Web -> SmartApp - to create a new Project from this template.
     Launch with `F5` or `Ctrl+F5` (The usual way)
 
 
@@ -72,4 +72,4 @@ LOGIN WITH USERNAME OR EMAIL ADDRESS
 
 ## License
 
-Released under the [MIT License]().
+Released under the [MIT License](https://github.com/girishgodage/SmartApp/blob/main/LICENSE).
