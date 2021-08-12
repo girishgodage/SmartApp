@@ -39,7 +39,7 @@ As well as other common functionalities for **Smart Application Development**.
 ## Installation
 
 *   [OPTION 1] Clone the [Git Repository](https://github.com/girishgodage/SmartApp.git) and edit with your favorite editor. e.g. Visual Studio, Visual Studio Code
-*   [OPTION 2] Install Project template from the [Visual Studio Gallery](https://marketplace.visualstudio.com/items?itemName=GirishGodage.SmartApp) and follow the usual File -> New Project -> Web -> ngCoreSmartApp - to create a new Project from this template.
+*   [OPTION 2] Install Project template from the [Visual Studio Gallery](https://marketplace.visualstudio.com/items?itemName=GirishGodage.SmartApp) and follow the usual File -> New Project -> Web -> SmartApp - to create a new Project from this template.
     Launch with `F5` or `Ctrl+F5` (The usual way)
 
 
